@@ -9,7 +9,23 @@
     <template>Hi</template>
   </category>
   <category>
-    <pattern>How are you</pattern>
-    <template>I'm fine</template>
+    <pattern>who are you</pattern>
+    <template>I'm chatbot, i am created by Vinh Qui</template>
+  </category>
+  <category>
+    <pattern>Bạn đang học ở đâu</pattern>
+    <template>Tôi đang học ở Học Viện Hàng Không Việt Nam</template>
+  </category>
+  <category>
+    <pattern>chúc bạn một ngày tốt lành</pattern>
+    <template>Cám ơn bạn. Bạn cũng thế nhé</template>
+  </category>
+  <category>
+    <pattern>Bạn đang là sinh viên năm thứ mấy</pattern>
+    <template>Tôi là sinh viên năm thứ 3</template>
+  </category>
+  <category>
+    <pattern>tạm biệt</pattern>
+    <template>byeee</template>
   </category>
 </aiml>
